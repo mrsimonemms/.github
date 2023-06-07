@@ -1,6 +1,7 @@
 name: Bug Report
 description: File a bug report
-labels: "bug"
+labels:
+  - bug
 body:
 - type: markdown
   attributes:
@@ -22,7 +23,7 @@ body:
 - type: textarea
   id: expected-behavior
   attributes:
-    label: Expected behavior
+    label: Expected behaviour
     description: Describe what you should see instead
 - type: textarea
   id: example-repository
@@ -33,4 +34,4 @@ body:
   id: anything-else
   attributes:
     label: Anything else?
-    description: Let us know if you have any additional feedback!
+    description: Do you have a theory, know the offending line of code or anything like that
