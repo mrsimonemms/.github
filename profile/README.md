@@ -1,5 +1,3 @@
-# Zigflow
-
 [![Zigflow](https://raw.githubusercontent.com/zigflow/zigflow/main/designs/zigflow.png "Zigflow")](https://zigflow.dev?utm_source=github_org&utm_medium=readme&utm_campaign=header)
 
 **Declarative YAML workflows on Temporal. No SDK boilerplate.**
